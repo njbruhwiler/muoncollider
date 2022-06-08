@@ -1,0 +1,1 @@
+{"filelist": "/global/cfs/cdirs/atlas/kkrizka/MCC/tracking/muonGun_sim_MuColl_v1.filelist", "args": {"MyAIDAProcessor.FileName": "{workdir}/{SAMPLE}"}, "vars": {"workdir": "test_me"}}

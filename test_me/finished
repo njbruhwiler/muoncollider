@@ -1,0 +1,10 @@
+8 {'global.LCIOInputFiles': '/global/cfs/cdirs/atlas/kkrizka/MCC/tracking/muonGun_sim_MuColl_v1.slcio', 'global.SkipNEvents': 80, 'global.MaxRecordNumber': 10}
+7 {'global.LCIOInputFiles': '/global/cfs/cdirs/atlas/kkrizka/MCC/tracking/muonGun_sim_MuColl_v1.slcio', 'global.SkipNEvents': 70, 'global.MaxRecordNumber': 10}
+5 {'global.LCIOInputFiles': '/global/cfs/cdirs/atlas/kkrizka/MCC/tracking/muonGun_sim_MuColl_v1.slcio', 'global.SkipNEvents': 50, 'global.MaxRecordNumber': 10}
+6 {'global.LCIOInputFiles': '/global/cfs/cdirs/atlas/kkrizka/MCC/tracking/muonGun_sim_MuColl_v1.slcio', 'global.SkipNEvents': 60, 'global.MaxRecordNumber': 10}
+1 {'global.LCIOInputFiles': '/global/cfs/cdirs/atlas/kkrizka/MCC/tracking/muonGun_sim_MuColl_v1.slcio', 'global.SkipNEvents': 10, 'global.MaxRecordNumber': 10}
+3 {'global.LCIOInputFiles': '/global/cfs/cdirs/atlas/kkrizka/MCC/tracking/muonGun_sim_MuColl_v1.slcio', 'global.SkipNEvents': 30, 'global.MaxRecordNumber': 10}
+2 {'global.LCIOInputFiles': '/global/cfs/cdirs/atlas/kkrizka/MCC/tracking/muonGun_sim_MuColl_v1.slcio', 'global.SkipNEvents': 20, 'global.MaxRecordNumber': 10}
+4 {'global.LCIOInputFiles': '/global/cfs/cdirs/atlas/kkrizka/MCC/tracking/muonGun_sim_MuColl_v1.slcio', 'global.SkipNEvents': 40, 'global.MaxRecordNumber': 10}
+9 {'global.LCIOInputFiles': '/global/cfs/cdirs/atlas/kkrizka/MCC/tracking/muonGun_sim_MuColl_v1.slcio', 'global.SkipNEvents': 90, 'global.MaxRecordNumber': 10}
+0 {'global.LCIOInputFiles': '/global/cfs/cdirs/atlas/kkrizka/MCC/tracking/muonGun_sim_MuColl_v1.slcio', 'global.SkipNEvents': 0, 'global.MaxRecordNumber': 10}
